@@ -12,7 +12,6 @@ int main(int argc, char *argv[])
     QLocale location;
     QString text = location.languageToString(location.language());
 
-    // Objeto para manejar las traducciones
     QTranslator traducion;
 
     if(text == "Russian"){
