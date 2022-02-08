@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>Recursos/artist.png</file>
         <file>paint_ruso.qm</file>
+        <file>paint_en.qm</file>
     </qresource>
 </RCC>

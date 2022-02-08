@@ -27,6 +27,7 @@ FORMS += \
 
 TRANSLATIONS = \
     paint_ruso.ts \
+    paint_en.ts \
 
 # Default rules for deployment.
 qnx: target.path = /tmp/$${TARGET}/bin
