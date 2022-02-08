@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Recursos/artist.png</file>
+        <file>paint_ruso.qm</file>
+    </qresource>
+</RCC>
